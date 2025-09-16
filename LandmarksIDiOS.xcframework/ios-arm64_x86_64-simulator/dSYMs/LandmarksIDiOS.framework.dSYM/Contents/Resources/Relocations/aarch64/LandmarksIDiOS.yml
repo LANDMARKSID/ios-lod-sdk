@@ -1,0 +1,315 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/gitlab/Library/Developer/Xcode/DerivedData/LandmarksIDiOS-bzhuhpeolyqogcavpbgaapzavvma/Build/Intermediates.noindex/ArchiveIntermediates/LandmarksIDiOS/InstallationBuildProductsLocation/Library/Frameworks/LandmarksIDiOS.framework/LandmarksIDiOS'
+relocations:
+  - { offset: 0x5EA0F, size: 0x8, addend: 0x0, symName: _LandmarksIDiOSVersionString, symObjAddr: 0x0, symBinAddr: 0xEC50, symSize: 0x0 }
+  - { offset: 0x5EA44, size: 0x8, addend: 0x0, symName: _LandmarksIDiOSVersionNumber, symObjAddr: 0x38, symBinAddr: 0xEC88, symSize: 0x0 }
+  - { offset: 0x5EA81, size: 0x8, addend: 0x0, symName: '-[EventsManager setup]', symObjAddr: 0x0, symBinAddr: 0x1370, symSize: 0x44 }
+  - { offset: 0x5EB10, size: 0x8, addend: 0x0, symName: '-[EventsManager setup]', symObjAddr: 0x0, symBinAddr: 0x1370, symSize: 0x44 }
+  - { offset: 0x5EB43, size: 0x8, addend: 0x0, symName: '-[EventsManager getFilePath:fileType:]', symObjAddr: 0x44, symBinAddr: 0x13B4, symSize: 0xDC }
+  - { offset: 0x5EC0F, size: 0x8, addend: 0x0, symName: '-[EventsManager saveEvents:event:]', symObjAddr: 0x120, symBinAddr: 0x1490, symSize: 0x1EC }
+  - { offset: 0x5ECE6, size: 0x8, addend: 0x0, symName: '-[EventsManager readEventsFrom:fileType:]', symObjAddr: 0x30C, symBinAddr: 0x167C, symSize: 0x1C0 }
+  - { offset: 0x5EDA6, size: 0x8, addend: 0x0, symName: '-[EventsManager removeEvents:]', symObjAddr: 0x4CC, symBinAddr: 0x183C, symSize: 0x37C }
+  - { offset: 0x5EE71, size: 0x8, addend: 0x0, symName: '-[EventsManager eventPath]', symObjAddr: 0x848, symBinAddr: 0x1BB8, symSize: 0x8 }
+  - { offset: 0x5EEA8, size: 0x8, addend: 0x0, symName: '-[EventsManager setEventPath:]', symObjAddr: 0x850, symBinAddr: 0x1BC0, symSize: 0xC }
+  - { offset: 0x5EEE9, size: 0x8, addend: 0x0, symName: '-[EventsManager fileManager]', symObjAddr: 0x85C, symBinAddr: 0x1BCC, symSize: 0x8 }
+  - { offset: 0x5EF20, size: 0x8, addend: 0x0, symName: '-[EventsManager setFileManager:]', symObjAddr: 0x864, symBinAddr: 0x1BD4, symSize: 0xC }
+  - { offset: 0x5EF61, size: 0x8, addend: 0x0, symName: '-[EventsManager .cxx_destruct]', symObjAddr: 0x870, symBinAddr: 0x1BE0, symSize: 0x30 }
+  - { offset: 0x5F056, size: 0x8, addend: 0x0, symName: '+[LandmarksIDLocationManager getInstance]', symObjAddr: 0x0, symBinAddr: 0x1C10, symSize: 0x40 }
+  - { offset: 0x5F070, size: 0x8, addend: 0x0, symName: _locationManager, symObjAddr: 0x1930, symBinAddr: 0x1AF48, symSize: 0x0 }
+  - { offset: 0x5F09C, size: 0x8, addend: 0x0, symName: _onceToken, symObjAddr: 0x1938, symBinAddr: 0x1AF50, symSize: 0x0 }
+  - { offset: 0x5F0E9, size: 0x8, addend: 0x0, symName: '+[LandmarksIDLocationManager getInstance]', symObjAddr: 0x0, symBinAddr: 0x1C10, symSize: 0x40 }
+  - { offset: 0x5F14A, size: 0x8, addend: 0x0, symName: '___41+[LandmarksIDLocationManager getInstance]_block_invoke', symObjAddr: 0x40, symBinAddr: 0x1C50, symSize: 0x34 }
+  - { offset: 0x5F244, size: 0x8, addend: 0x0, symName: '-[Configuration initConfig:]', symObjAddr: 0x0, symBinAddr: 0x1C84, symSize: 0x550 }
+  - { offset: 0x5F410, size: 0x8, addend: 0x0, symName: '-[Configuration initConfig:]', symObjAddr: 0x0, symBinAddr: 0x1C84, symSize: 0x550 }
+  - { offset: 0x5F5A6, size: 0x8, addend: 0x0, symName: '-[Configuration getConfigRequest:withAppIdentifier:withAppSecret:]', symObjAddr: 0x550, symBinAddr: 0x21D4, symSize: 0x148 }
+  - { offset: 0x5F649, size: 0x8, addend: 0x0, symName: '-[Configuration getConfig:completion:]', symObjAddr: 0x698, symBinAddr: 0x231C, symSize: 0xE8 }
+  - { offset: 0x5F6B8, size: 0x8, addend: 0x0, symName: '___38-[Configuration getConfig:completion:]_block_invoke', symObjAddr: 0x780, symBinAddr: 0x2404, symSize: 0x360 }
+  - { offset: 0x5F832, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b, symObjAddr: 0xAE0, symBinAddr: 0x2764, symSize: 0x10 }
+  - { offset: 0x5F85B, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0xAF0, symBinAddr: 0x2774, symSize: 0x8 }
+  - { offset: 0x5F87A, size: 0x8, addend: 0x0, symName: '-[Configuration getConfigValues:]', symObjAddr: 0xAF8, symBinAddr: 0x277C, symSize: 0x100 }
+  - { offset: 0x5F8FC, size: 0x8, addend: 0x0, symName: '-[Configuration distanceFilterMeters]', symObjAddr: 0xBF8, symBinAddr: 0x287C, symSize: 0x8 }
+  - { offset: 0x5F931, size: 0x8, addend: 0x0, symName: '-[Configuration setDistanceFilterMeters:]', symObjAddr: 0xC00, symBinAddr: 0x2884, symSize: 0x8 }
+  - { offset: 0x5F96F, size: 0x8, addend: 0x0, symName: '-[Configuration clientId]', symObjAddr: 0xC08, symBinAddr: 0x288C, symSize: 0x8 }
+  - { offset: 0x5F9A6, size: 0x8, addend: 0x0, symName: '-[Configuration setClientId:]', symObjAddr: 0xC10, symBinAddr: 0x2894, symSize: 0xC }
+  - { offset: 0x5F9E7, size: 0x8, addend: 0x0, symName: '-[Configuration batchSize]', symObjAddr: 0xC1C, symBinAddr: 0x28A0, symSize: 0x8 }
+  - { offset: 0x5FA1E, size: 0x8, addend: 0x0, symName: '-[Configuration setBatchSize:]', symObjAddr: 0xC24, symBinAddr: 0x28A8, symSize: 0x8 }
+  - { offset: 0x5FA5B, size: 0x8, addend: 0x0, symName: '-[Configuration terminatedBatchSize]', symObjAddr: 0xC2C, symBinAddr: 0x28B0, symSize: 0x8 }
+  - { offset: 0x5FA92, size: 0x8, addend: 0x0, symName: '-[Configuration setTerminatedBatchSize:]', symObjAddr: 0xC34, symBinAddr: 0x28B8, symSize: 0x8 }
+  - { offset: 0x5FACF, size: 0x8, addend: 0x0, symName: '-[Configuration terminatedEventsSize]', symObjAddr: 0xC3C, symBinAddr: 0x28C0, symSize: 0x8 }
+  - { offset: 0x5FB06, size: 0x8, addend: 0x0, symName: '-[Configuration setTerminatedEventsSize:]', symObjAddr: 0xC44, symBinAddr: 0x28C8, symSize: 0x8 }
+  - { offset: 0x5FB43, size: 0x8, addend: 0x0, symName: '-[Configuration monitoredApps]', symObjAddr: 0xC4C, symBinAddr: 0x28D0, symSize: 0x8 }
+  - { offset: 0x5FB7A, size: 0x8, addend: 0x0, symName: '-[Configuration setMonitoredApps:]', symObjAddr: 0xC54, symBinAddr: 0x28D8, symSize: 0xC }
+  - { offset: 0x5FBBB, size: 0x8, addend: 0x0, symName: '-[Configuration discoveryEnabled]', symObjAddr: 0xC60, symBinAddr: 0x28E4, symSize: 0x8 }
+  - { offset: 0x5FBF2, size: 0x8, addend: 0x0, symName: '-[Configuration setDiscoveryEnabled:]', symObjAddr: 0xC68, symBinAddr: 0x28EC, symSize: 0x8 }
+  - { offset: 0x5FC2F, size: 0x8, addend: 0x0, symName: '-[Configuration locationOptimisedEnabled]', symObjAddr: 0xC70, symBinAddr: 0x28F4, symSize: 0x8 }
+  - { offset: 0x5FC66, size: 0x8, addend: 0x0, symName: '-[Configuration setLocationOptimisedEnabled:]', symObjAddr: 0xC78, symBinAddr: 0x28FC, symSize: 0x8 }
+  - { offset: 0x5FCA3, size: 0x8, addend: 0x0, symName: '-[Configuration foregroundTrackingEnabled]', symObjAddr: 0xC80, symBinAddr: 0x2904, symSize: 0x8 }
+  - { offset: 0x5FCDA, size: 0x8, addend: 0x0, symName: '-[Configuration setForegroundTrackingEnabled:]', symObjAddr: 0xC88, symBinAddr: 0x290C, symSize: 0x8 }
+  - { offset: 0x5FD17, size: 0x8, addend: 0x0, symName: '-[Configuration significantLocationTrackingEnabled]', symObjAddr: 0xC90, symBinAddr: 0x2914, symSize: 0x8 }
+  - { offset: 0x5FD4E, size: 0x8, addend: 0x0, symName: '-[Configuration setSignificantLocationTrackingEnabled:]', symObjAddr: 0xC98, symBinAddr: 0x291C, symSize: 0x8 }
+  - { offset: 0x5FD8B, size: 0x8, addend: 0x0, symName: '-[Configuration shouldCollectData]', symObjAddr: 0xCA0, symBinAddr: 0x2924, symSize: 0x8 }
+  - { offset: 0x5FDC2, size: 0x8, addend: 0x0, symName: '-[Configuration setShouldCollectData:]', symObjAddr: 0xCA8, symBinAddr: 0x292C, symSize: 0x8 }
+  - { offset: 0x5FDFF, size: 0x8, addend: 0x0, symName: '-[Configuration allowsTerminatedTracking]', symObjAddr: 0xCB0, symBinAddr: 0x2934, symSize: 0x8 }
+  - { offset: 0x5FE36, size: 0x8, addend: 0x0, symName: '-[Configuration setAllowsTerminatedTracking:]', symObjAddr: 0xCB8, symBinAddr: 0x293C, symSize: 0x8 }
+  - { offset: 0x5FE73, size: 0x8, addend: 0x0, symName: '-[Configuration enableNetworkName]', symObjAddr: 0xCC0, symBinAddr: 0x2944, symSize: 0x8 }
+  - { offset: 0x5FEAA, size: 0x8, addend: 0x0, symName: '-[Configuration setEnableNetworkName:]', symObjAddr: 0xCC8, symBinAddr: 0x294C, symSize: 0x8 }
+  - { offset: 0x5FEE7, size: 0x8, addend: 0x0, symName: '-[Configuration enableAdvertisingId]', symObjAddr: 0xCD0, symBinAddr: 0x2954, symSize: 0x8 }
+  - { offset: 0x5FF1E, size: 0x8, addend: 0x0, symName: '-[Configuration setEnableAdvertisingId:]', symObjAddr: 0xCD8, symBinAddr: 0x295C, symSize: 0x8 }
+  - { offset: 0x5FF5B, size: 0x8, addend: 0x0, symName: '-[Configuration enableSimOperator]', symObjAddr: 0xCE0, symBinAddr: 0x2964, symSize: 0x8 }
+  - { offset: 0x5FF92, size: 0x8, addend: 0x0, symName: '-[Configuration setEnableSimOperator:]', symObjAddr: 0xCE8, symBinAddr: 0x296C, symSize: 0x8 }
+  - { offset: 0x5FFCF, size: 0x8, addend: 0x0, symName: '-[Configuration .cxx_destruct]', symObjAddr: 0xCF0, symBinAddr: 0x2974, symSize: 0x30 }
+  - { offset: 0x601E1, size: 0x8, addend: 0x0, symName: '+[Reachability reachabilityWithHostName:]', symObjAddr: 0x0, symBinAddr: 0x29A4, symSize: 0x5C }
+  - { offset: 0x601FB, size: 0x8, addend: 0x0, symName: _kReachabilityChangedNotification, symObjAddr: 0x498, symBinAddr: 0x1AC88, symSize: 0x0 }
+  - { offset: 0x60263, size: 0x8, addend: 0x0, symName: '+[Reachability reachabilityWithHostName:]', symObjAddr: 0x0, symBinAddr: 0x29A4, symSize: 0x5C }
+  - { offset: 0x60325, size: 0x8, addend: 0x0, symName: '+[Reachability reachabilityWithAddress:]', symObjAddr: 0x5C, symBinAddr: 0x2A00, symSize: 0x58 }
+  - { offset: 0x603D0, size: 0x8, addend: 0x0, symName: '+[Reachability reachabilityForInternetConnection]', symObjAddr: 0xB4, symBinAddr: 0x2A58, symSize: 0x60 }
+  - { offset: 0x60416, size: 0x8, addend: 0x0, symName: '-[Reachability startNotifier]', symObjAddr: 0x114, symBinAddr: 0x2AB8, symSize: 0x74 }
+  - { offset: 0x604F8, size: 0x8, addend: 0x0, symName: _ReachabilityCallback, symObjAddr: 0x188, symBinAddr: 0x2B2C, symSize: 0x5C }
+  - { offset: 0x60547, size: 0x8, addend: 0x0, symName: '-[Reachability stopNotifier]', symObjAddr: 0x1E4, symBinAddr: 0x2B88, symSize: 0x44 }
+  - { offset: 0x605B3, size: 0x8, addend: 0x0, symName: '-[Reachability dealloc]', symObjAddr: 0x228, symBinAddr: 0x2BCC, symSize: 0x50 }
+  - { offset: 0x60616, size: 0x8, addend: 0x0, symName: '-[Reachability networkStatusForFlags:]', symObjAddr: 0x278, symBinAddr: 0x2C1C, symSize: 0xF0 }
+  - { offset: 0x606A9, size: 0x8, addend: 0x0, symName: '-[Reachability connectionRequired]', symObjAddr: 0x368, symBinAddr: 0x2D0C, symSize: 0x34 }
+  - { offset: 0x60723, size: 0x8, addend: 0x0, symName: '-[Reachability currentReachabilityStatus]', symObjAddr: 0x39C, symBinAddr: 0x2D40, symSize: 0x48 }
+  - { offset: 0x60836, size: 0x8, addend: 0x0, symName: '-[Utils jsonFileToDictionary:]', symObjAddr: 0x0, symBinAddr: 0x2D88, symSize: 0xE8 }
+  - { offset: 0x60878, size: 0x8, addend: 0x0, symName: '-[Utils jsonFileToDictionary:]', symObjAddr: 0x0, symBinAddr: 0x2D88, symSize: 0xE8 }
+  - { offset: 0x608FD, size: 0x8, addend: 0x0, symName: '-[Utils jsonDataFromFile:]', symObjAddr: 0xE8, symBinAddr: 0x2E70, symSize: 0x9C }
+  - { offset: 0x60950, size: 0x8, addend: 0x0, symName: '-[Utils jsonDataToDictionary:]', symObjAddr: 0x184, symBinAddr: 0x2F0C, symSize: 0xC8 }
+  - { offset: 0x609B3, size: 0x8, addend: 0x0, symName: '+[Utils logData:]', symObjAddr: 0x24C, symBinAddr: 0x2FD4, symSize: 0xAC }
+  - { offset: 0x60A35, size: 0x8, addend: 0x0, symName: '+[Utils isConnectedToInternet]', symObjAddr: 0x2F8, symBinAddr: 0x3080, symSize: 0x48 }
+  - { offset: 0x60A88, size: 0x8, addend: 0x0, symName: '+[Utils httpPost:withData:requestSesstion:withAppSecret:completion:]', symObjAddr: 0x340, symBinAddr: 0x30C8, symSize: 0x28C }
+  - { offset: 0x60B83, size: 0x8, addend: 0x0, symName: '___68+[Utils httpPost:withData:requestSesstion:withAppSecret:completion:]_block_invoke', symObjAddr: 0x5CC, symBinAddr: 0x3354, symSize: 0x1F8 }
+  - { offset: 0x60C8F, size: 0x8, addend: 0x0, symName: '+[Utils hasDeviceInfoChanged:lastDeviceInfo:]', symObjAddr: 0x7DC, symBinAddr: 0x354C, symSize: 0x760 }
+  - { offset: 0x60CF2, size: 0x8, addend: 0x0, symName: '+[Utils requestPermissionForIDFA:]', symObjAddr: 0xF3C, symBinAddr: 0x3CAC, symSize: 0xC8 }
+  - { offset: 0x60D50, size: 0x8, addend: 0x0, symName: '___34+[Utils requestPermissionForIDFA:]_block_invoke', symObjAddr: 0x1004, symBinAddr: 0x3D74, symSize: 0xA0 }
+  - { offset: 0x60DC5, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40b, symObjAddr: 0x10A4, symBinAddr: 0x3E14, symSize: 0x34 }
+  - { offset: 0x60DEE, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s, symObjAddr: 0x10D8, symBinAddr: 0x3E48, symSize: 0x28 }
+  - { offset: 0x60E0D, size: 0x8, addend: 0x0, symName: '+[Utils permissionSatusForDFA]', symObjAddr: 0x1100, symBinAddr: 0x3E70, symSize: 0x3C }
+  - { offset: 0x60E60, size: 0x8, addend: 0x0, symName: '+[Utils carrierName:enableSimOperator:]', symObjAddr: 0x113C, symBinAddr: 0x3EAC, symSize: 0x90 }
+  - { offset: 0x60EB3, size: 0x8, addend: 0x0, symName: '+[Utils simOperatorIso:enableSimOperator:]', symObjAddr: 0x11CC, symBinAddr: 0x3F3C, symSize: 0x90 }
+  - { offset: 0x60F06, size: 0x8, addend: 0x0, symName: '+[Utils networkStatus]', symObjAddr: 0x125C, symBinAddr: 0x3FCC, symSize: 0x3E8 }
+  - { offset: 0x60FD8, size: 0x8, addend: 0x0, symName: '+[Utils batterySate]', symObjAddr: 0x1644, symBinAddr: 0x43B4, symSize: 0xA8 }
+  - { offset: 0x6102E, size: 0x8, addend: 0x0, symName: '+[Utils batteryLevel]', symObjAddr: 0x16EC, symBinAddr: 0x445C, symSize: 0x84 }
+  - { offset: 0x61073, size: 0x8, addend: 0x0, symName: '+[Utils adId]', symObjAddr: 0x1770, symBinAddr: 0x44E0, symSize: 0xB0 }
+  - { offset: 0x610C7, size: 0x8, addend: 0x0, symName: '+[Utils deviceId:]', symObjAddr: 0x1820, symBinAddr: 0x4590, symSize: 0x2C }
+  - { offset: 0x61110, size: 0x8, addend: 0x0, symName: '-[Utils getLocationPercissionAuthorizationStatusString:]', symObjAddr: 0x184C, symBinAddr: 0x45BC, symSize: 0x2C }
+  - { offset: 0x61164, size: 0x8, addend: 0x0, symName: '+[Utils advertisingIdEnabled:]', symObjAddr: 0x1878, symBinAddr: 0x45E8, symSize: 0x8 }
+  - { offset: 0x611A5, size: 0x8, addend: 0x0, symName: '+[Utils timeDefInSecond:]', symObjAddr: 0x1880, symBinAddr: 0x45F0, symSize: 0x6C }
+  - { offset: 0x61501, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate init]', symObjAddr: 0x0, symBinAddr: 0x465C, symSize: 0x34 }
+  - { offset: 0x61525, size: 0x8, addend: 0x0, symName: _BACKGROUND_SESSION_NAME, symObjAddr: 0x8F78, symBinAddr: 0x14278, symSize: 0x0 }
+  - { offset: 0x6153B, size: 0x8, addend: 0x0, symName: _LANDMARKSID_CONFIG, symObjAddr: 0x8F80, symBinAddr: 0x14280, symSize: 0x0 }
+  - { offset: 0x61551, size: 0x8, addend: 0x0, symName: _LANDMARKSID_LRE_EVENT_TYPE, symObjAddr: 0x8F88, symBinAddr: 0x14288, symSize: 0x0 }
+  - { offset: 0x61567, size: 0x8, addend: 0x0, symName: _LANDMARKSID_LORE_EVENT_TYPE, symObjAddr: 0x8F90, symBinAddr: 0x14290, symSize: 0x0 }
+  - { offset: 0x6157D, size: 0x8, addend: 0x0, symName: _LANDMARKSID_SOURCE, symObjAddr: 0x8F98, symBinAddr: 0x14298, symSize: 0x0 }
+  - { offset: 0x61593, size: 0x8, addend: 0x0, symName: _PRODUCTION_URL, symObjAddr: 0x8FA0, symBinAddr: 0x142A0, symSize: 0x0 }
+  - { offset: 0x615A9, size: 0x8, addend: 0x0, symName: _STAGING_URL, symObjAddr: 0x8FA8, symBinAddr: 0x142A8, symSize: 0x0 }
+  - { offset: 0x615BF, size: 0x8, addend: 0x0, symName: _SDK_VERSION, symObjAddr: 0x8FB0, symBinAddr: 0x142B0, symSize: 0x0 }
+  - { offset: 0x615D5, size: 0x8, addend: 0x0, symName: _appState, symObjAddr: 0x9230, symBinAddr: 0x1AC90, symSize: 0x0 }
+  - { offset: 0x615EB, size: 0x8, addend: 0x0, symName: _preferredLocationPermissionType, symObjAddr: 0x9238, symBinAddr: 0x1AC98, symSize: 0x0 }
+  - { offset: 0x61601, size: 0x8, addend: 0x0, symName: _customDataFlag, symObjAddr: 0x27868, symBinAddr: 0x1AF60, symSize: 0x0 }
+  - { offset: 0x6161E, size: 0x8, addend: 0x0, symName: _authorisationStatus, symObjAddr: 0x9240, symBinAddr: 0x1ACA0, symSize: 0x0 }
+  - { offset: 0x61634, size: 0x8, addend: 0x0, symName: _sharedLandmarksManager, symObjAddr: 0x27880, symBinAddr: 0x1AF58, symSize: 0x0 }
+  - { offset: 0x61C7D, size: 0x8, addend: 0x0, symName: _lastDateSentDeviceInfo, symObjAddr: 0x27870, symBinAddr: 0x1AF68, symSize: 0x0 }
+  - { offset: 0x61C98, size: 0x8, addend: 0x0, symName: _internetReachability, symObjAddr: 0x27878, symBinAddr: 0x1AF70, symSize: 0x0 }
+  - { offset: 0x61CE1, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate init]', symObjAddr: 0x0, symBinAddr: 0x465C, symSize: 0x34 }
+  - { offset: 0x61D18, size: 0x8, addend: 0x0, symName: '+[LandmarksIDManagerDelegate sharedManager]', symObjAddr: 0x34, symBinAddr: 0x4690, symSize: 0x64 }
+  - { offset: 0x61D4F, size: 0x8, addend: 0x0, symName: '+[LandmarksIDManagerDelegate initialize:appSecret:apiKey:]', symObjAddr: 0x98, symBinAddr: 0x46F4, symSize: 0x5DC }
+  - { offset: 0x61DD6, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate updateDeviceInfo]', symObjAddr: 0x674, symBinAddr: 0x4CD0, symSize: 0x224 }
+  - { offset: 0x61E09, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate getHostURL]', symObjAddr: 0x898, symBinAddr: 0x4EF4, symSize: 0x2C }
+  - { offset: 0x61E40, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setup]', symObjAddr: 0x8C4, symBinAddr: 0x4F20, symSize: 0x148 }
+  - { offset: 0x61ED2, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate startDiscoveryTracking]', symObjAddr: 0xA0C, symBinAddr: 0x5068, symSize: 0x100 }
+  - { offset: 0x61F24, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate stopDiscoveryTracking]', symObjAddr: 0xB0C, symBinAddr: 0x5168, symSize: 0x60 }
+  - { offset: 0x61F57, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate startSignificantLocationTracking]', symObjAddr: 0xB6C, symBinAddr: 0x51C8, symSize: 0xAC }
+  - { offset: 0x61F8B, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate stopSignificantLocationTracking]', symObjAddr: 0xC18, symBinAddr: 0x5274, symSize: 0x5C }
+  - { offset: 0x61FBF, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate startSession]', symObjAddr: 0xC74, symBinAddr: 0x52D0, symSize: 0x144 }
+  - { offset: 0x61FF3, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate stopSession]', symObjAddr: 0xDB8, symBinAddr: 0x5414, symSize: 0x80 }
+  - { offset: 0x62027, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate startForegroundTracking]', symObjAddr: 0xE38, symBinAddr: 0x5494, symSize: 0x158 }
+  - { offset: 0x6207B, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate startTracking]', symObjAddr: 0xF90, symBinAddr: 0x55EC, symSize: 0xB4 }
+  - { offset: 0x620C0, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate stopTracking]', symObjAddr: 0x1044, symBinAddr: 0x56A0, symSize: 0x154 }
+  - { offset: 0x62143, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate applicationWillTerminate]', symObjAddr: 0x1198, symBinAddr: 0x57F4, symSize: 0x12C }
+  - { offset: 0x621A8, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate applicationTerminated]', symObjAddr: 0x12C4, symBinAddr: 0x5920, symSize: 0x110 }
+  - { offset: 0x621ED, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate getConfig]', symObjAddr: 0x13D4, symBinAddr: 0x5A30, symSize: 0x19C }
+  - { offset: 0x62265, size: 0x8, addend: 0x0, symName: '___39-[LandmarksIDManagerDelegate getConfig]_block_invoke', symObjAddr: 0x1570, symBinAddr: 0x5BCC, symSize: 0x3EC }
+  - { offset: 0x62375, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s, symObjAddr: 0x195C, symBinAddr: 0x5FB8, symSize: 0x30 }
+  - { offset: 0x6239E, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s, symObjAddr: 0x198C, symBinAddr: 0x5FE8, symSize: 0x30 }
+  - { offset: 0x623BD, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate getNSNumber:]', symObjAddr: 0x19BC, symBinAddr: 0x6018, symSize: 0x30 }
+  - { offset: 0x62402, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate getAuthorizationStatusString:]', symObjAddr: 0x19EC, symBinAddr: 0x6048, symSize: 0x24 }
+  - { offset: 0x62456, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate generateDeviceInfo:]', symObjAddr: 0x1A10, symBinAddr: 0x606C, symSize: 0x188 }
+  - { offset: 0x624DF, size: 0x8, addend: 0x0, symName: '___49-[LandmarksIDManagerDelegate generateDeviceInfo:]_block_invoke', symObjAddr: 0x1B98, symBinAddr: 0x61F4, symSize: 0x43C }
+  - { offset: 0x62619, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56b, symObjAddr: 0x1FD4, symBinAddr: 0x6630, symSize: 0x44 }
+  - { offset: 0x62642, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s, symObjAddr: 0x2018, symBinAddr: 0x6674, symSize: 0x38 }
+  - { offset: 0x62661, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate generateLORE:]', symObjAddr: 0x2050, symBinAddr: 0x66AC, symSize: 0x6D4 }
+  - { offset: 0x6270D, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate generateLRE:location:fence:dwellTime:]', symObjAddr: 0x2724, symBinAddr: 0x6D80, symSize: 0x654 }
+  - { offset: 0x627BC, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate sendEvents]', symObjAddr: 0x2D78, symBinAddr: 0x73D4, symSize: 0x4 }
+  - { offset: 0x627EE, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate logData:]', symObjAddr: 0x2D7C, symBinAddr: 0x73D8, symSize: 0x11C }
+  - { offset: 0x62863, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate sendNotification:message:]', symObjAddr: 0x2E98, symBinAddr: 0x74F4, symSize: 0x164 }
+  - { offset: 0x6290A, size: 0x8, addend: 0x0, symName: '___55-[LandmarksIDManagerDelegate sendNotification:message:]_block_invoke', symObjAddr: 0x2FFC, symBinAddr: 0x7658, symSize: 0x4 }
+  - { offset: 0x62940, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate sendLOREEvents]', symObjAddr: 0x3000, symBinAddr: 0x765C, symSize: 0x218 }
+  - { offset: 0x629A5, size: 0x8, addend: 0x0, symName: '___44-[LandmarksIDManagerDelegate sendLOREEvents]_block_invoke', symObjAddr: 0x3218, symBinAddr: 0x7874, symSize: 0x70 }
+  - { offset: 0x62A1E, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate sendDeviceInfo]', symObjAddr: 0x3288, symBinAddr: 0x78E4, symSize: 0xD8 }
+  - { offset: 0x62A52, size: 0x8, addend: 0x0, symName: '___44-[LandmarksIDManagerDelegate sendDeviceInfo]_block_invoke', symObjAddr: 0x3360, symBinAddr: 0x79BC, symSize: 0xF4 }
+  - { offset: 0x62AD2, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0x3454, symBinAddr: 0x7AB0, symSize: 0x8 }
+  - { offset: 0x62AF9, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate sendDevinceInfoRequest:]', symObjAddr: 0x3464, symBinAddr: 0x7AB8, symSize: 0x118 }
+  - { offset: 0x62B4F, size: 0x8, addend: 0x0, symName: '___53-[LandmarksIDManagerDelegate sendDevinceInfoRequest:]_block_invoke', symObjAddr: 0x357C, symBinAddr: 0x7BD0, symSize: 0x8C }
+  - { offset: 0x62BF2, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s, symObjAddr: 0x3608, symBinAddr: 0x7C5C, symSize: 0x28 }
+  - { offset: 0x62C1B, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate testRequest]', symObjAddr: 0x3658, symBinAddr: 0x7C84, symSize: 0xBC }
+  - { offset: 0x62C4F, size: 0x8, addend: 0x0, symName: '___41-[LandmarksIDManagerDelegate testRequest]_block_invoke', symObjAddr: 0x3714, symBinAddr: 0x7D40, symSize: 0x70 }
+  - { offset: 0x62CC8, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate requestLocationPermissions:]', symObjAddr: 0x3784, symBinAddr: 0x7DB0, symSize: 0x7C }
+  - { offset: 0x62D0D, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate getAppList:]', symObjAddr: 0x3800, symBinAddr: 0x7E2C, symSize: 0xC4 }
+  - { offset: 0x62D92, size: 0x8, addend: 0x0, symName: '___41-[LandmarksIDManagerDelegate getAppList:]_block_invoke', symObjAddr: 0x38C4, symBinAddr: 0x7EF0, symSize: 0x1EC }
+  - { offset: 0x62E86, size: 0x8, addend: 0x0, symName: '___41-[LandmarksIDManagerDelegate getAppList:]_block_invoke_2', symObjAddr: 0x3AB0, symBinAddr: 0x80DC, symSize: 0x14 }
+  - { offset: 0x62EE8, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48b, symObjAddr: 0x3AF8, symBinAddr: 0x80F0, symSize: 0x3C }
+  - { offset: 0x62F11, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate isAllowedToRecordData]', symObjAddr: 0x3B34, symBinAddr: 0x812C, symSize: 0x50 }
+  - { offset: 0x62F56, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate stopRecordingData]', symObjAddr: 0x3B84, symBinAddr: 0x817C, symSize: 0x48 }
+  - { offset: 0x62F86, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate restartRecordingData]', symObjAddr: 0x3BCC, symBinAddr: 0x81C4, symSize: 0x48 }
+  - { offset: 0x62FB6, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate getCustomValueIndexForKey:]', symObjAddr: 0x3C14, symBinAddr: 0x820C, symSize: 0x12C }
+  - { offset: 0x63030, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setCustomInt:value:]', symObjAddr: 0x3D40, symBinAddr: 0x8338, symSize: 0x210 }
+  - { offset: 0x630A8, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setCustomFloat:value:]', symObjAddr: 0x3F50, symBinAddr: 0x8548, symSize: 0x21C }
+  - { offset: 0x63120, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setCustomString:value:]', symObjAddr: 0x416C, symBinAddr: 0x8764, symSize: 0x280 }
+  - { offset: 0x631B8, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate customerId]', symObjAddr: 0x43EC, symBinAddr: 0x89E4, symSize: 0x8 }
+  - { offset: 0x631F0, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setCustomerId:]', symObjAddr: 0x43F4, symBinAddr: 0x89EC, symSize: 0x8C }
+  - { offset: 0x63235, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate URLSession:dataTask:didReceiveData:]', symObjAddr: 0x4480, symBinAddr: 0x8A78, symSize: 0x8C }
+  - { offset: 0x632A2, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate URLSession:task:didCompleteWithError:]', symObjAddr: 0x450C, symBinAddr: 0x8B04, symSize: 0x1E4 }
+  - { offset: 0x63336, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate willAuthenticateWithApiKey:]', symObjAddr: 0x46F0, symBinAddr: 0x8CE8, symSize: 0x5C }
+  - { offset: 0x633A5, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate authenticationWasSuccessful]', symObjAddr: 0x474C, symBinAddr: 0x8D44, symSize: 0x5C }
+  - { offset: 0x63407, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate authenticationWasDeniedWithReason:]', symObjAddr: 0x47A8, symBinAddr: 0x8DA0, symSize: 0x90 }
+  - { offset: 0x6347A, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate authenticationFailedWithError:]', symObjAddr: 0x4838, symBinAddr: 0x8E30, symSize: 0xB0 }
+  - { offset: 0x634ED, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate didEndSession]', symObjAddr: 0x48E8, symBinAddr: 0x8EE0, symSize: 0x5C }
+  - { offset: 0x6354F, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate didEndSessionWithError:]', symObjAddr: 0x4944, symBinAddr: 0x8F3C, symSize: 0xB0 }
+  - { offset: 0x635C2, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate didUpdateZoneInfo:]', symObjAddr: 0x49F4, symBinAddr: 0x8FEC, symSize: 0x9C }
+  - { offset: 0x63635, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate didCheckIntoFence:inZone:atLocation:willCheckOut:withCustomData:]', symObjAddr: 0x4A90, symBinAddr: 0x9088, symSize: 0x348 }
+  - { offset: 0x6371A, size: 0x8, addend: 0x0, symName: '___94-[LandmarksIDManagerDelegate didCheckIntoFence:inZone:atLocation:willCheckOut:withCustomData:]_block_invoke', symObjAddr: 0x4DD8, symBinAddr: 0x93D0, symSize: 0x70 }
+  - { offset: 0x63793, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate didCheckOutFromFence:inZone:onDate:withDuration:withCustomData:]', symObjAddr: 0x4E48, symBinAddr: 0x9440, symSize: 0x354 }
+  - { offset: 0x63889, size: 0x8, addend: 0x0, symName: '___93-[LandmarksIDManagerDelegate didCheckOutFromFence:inZone:onDate:withDuration:withCustomData:]_block_invoke', symObjAddr: 0x519C, symBinAddr: 0x9794, symSize: 0x70 }
+  - { offset: 0x63902, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate didCheckIntoBeacon:inZone:atLocation:withProximity:willCheckOut:withCustomData:]', symObjAddr: 0x520C, symBinAddr: 0x9804, symSize: 0x4 }
+  - { offset: 0x63980, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate didCheckOutFromBeacon:inZone:withProximity:onDate:withDuration:withCustomData:]', symObjAddr: 0x5210, symBinAddr: 0x9808, symSize: 0x4 }
+  - { offset: 0x639FE, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate didStartRequiringUserInterventionForBluetooth]', symObjAddr: 0x5214, symBinAddr: 0x980C, symSize: 0x4 }
+  - { offset: 0x63A2E, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate didStopRequiringUserInterventionForBluetooth]', symObjAddr: 0x5218, symBinAddr: 0x9810, symSize: 0x4 }
+  - { offset: 0x63A5E, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate didStartRequiringUserInterventionForLocationServicesAuthorizationStatus:]', symObjAddr: 0x521C, symBinAddr: 0x9814, symSize: 0x4 }
+  - { offset: 0x63A9B, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate didStopRequiringUserInterventionForLocationServicesAuthorizationStatus:]', symObjAddr: 0x5220, symBinAddr: 0x9818, symSize: 0x4 }
+  - { offset: 0x63AD8, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate didStartRequiringUserInterventionForPowerMode]', symObjAddr: 0x5224, symBinAddr: 0x981C, symSize: 0x4 }
+  - { offset: 0x63B08, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate didStopRequiringUserInterventionForPowerMode]', symObjAddr: 0x5228, symBinAddr: 0x9820, symSize: 0x4 }
+  - { offset: 0x63B38, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate locationManager:didUpdateLocations:]', symObjAddr: 0x522C, symBinAddr: 0x9824, symSize: 0x6D4 }
+  - { offset: 0x63CDB, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate locationManager:didVisit:]', symObjAddr: 0x5900, symBinAddr: 0x9EF8, symSize: 0x2E8 }
+  - { offset: 0x63DA9, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate locationManager:didChangeAuthorizationStatus:]', symObjAddr: 0x5BE8, symBinAddr: 0xA1E0, symSize: 0x268 }
+  - { offset: 0x63E13, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate locationManagerDidResumeLocationUpdates:]', symObjAddr: 0x5E50, symBinAddr: 0xA448, symSize: 0x60 }
+  - { offset: 0x63E74, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate locationManager:didFailWithError:]', symObjAddr: 0x5EB0, symBinAddr: 0xA4A8, symSize: 0xA0 }
+  - { offset: 0x63EE6, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setCurrentAppState]', symObjAddr: 0x5F50, symBinAddr: 0xA548, symSize: 0x168 }
+  - { offset: 0x63F4D, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate saveEventInTerminatedMode:]', symObjAddr: 0x60B8, symBinAddr: 0xA6B0, symSize: 0xA4 }
+  - { offset: 0x63F96, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate readAndSendTerminatedEvents]', symObjAddr: 0x615C, symBinAddr: 0xA754, symSize: 0x438 }
+  - { offset: 0x64098, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate getCountOfTerminatedEvents]', symObjAddr: 0x6594, symBinAddr: 0xAB8C, symSize: 0x1A0 }
+  - { offset: 0x6413E, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate removeSentTerminatedEvents]', symObjAddr: 0x6734, symBinAddr: 0xAD2C, symSize: 0x368 }
+  - { offset: 0x6420C, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate sendLOREEventsFromTerminatedMode:]', symObjAddr: 0x6A9C, symBinAddr: 0xB094, symSize: 0xEC }
+  - { offset: 0x64262, size: 0x8, addend: 0x0, symName: '___63-[LandmarksIDManagerDelegate sendLOREEventsFromTerminatedMode:]_block_invoke', symObjAddr: 0x6B88, symBinAddr: 0xB180, symSize: 0x70 }
+  - { offset: 0x642DB, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate requestPermissionForIDFA]', symObjAddr: 0x6BF8, symBinAddr: 0xB1F0, symSize: 0x5C }
+  - { offset: 0x6430F, size: 0x8, addend: 0x0, symName: '___54-[LandmarksIDManagerDelegate requestPermissionForIDFA]_block_invoke', symObjAddr: 0x6C54, symBinAddr: 0xB24C, symSize: 0x98 }
+  - { offset: 0x64373, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate locationManager]', symObjAddr: 0x6CEC, symBinAddr: 0xB2E4, symSize: 0x8 }
+  - { offset: 0x643AA, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setLocationManager:]', symObjAddr: 0x6CF4, symBinAddr: 0xB2EC, symSize: 0xC }
+  - { offset: 0x643EB, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate appIdentifier]', symObjAddr: 0x6D00, symBinAddr: 0xB2F8, symSize: 0x8 }
+  - { offset: 0x64422, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setAppIdentifier:]', symObjAddr: 0x6D08, symBinAddr: 0xB300, symSize: 0xC }
+  - { offset: 0x64463, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate appSecret]', symObjAddr: 0x6D14, symBinAddr: 0xB30C, symSize: 0x8 }
+  - { offset: 0x6449A, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setAppSecret:]', symObjAddr: 0x6D1C, symBinAddr: 0xB314, symSize: 0xC }
+  - { offset: 0x644DB, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate apiURL]', symObjAddr: 0x6D28, symBinAddr: 0xB320, symSize: 0x8 }
+  - { offset: 0x64512, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setApiURL:]', symObjAddr: 0x6D30, symBinAddr: 0xB328, symSize: 0xC }
+  - { offset: 0x64553, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate debugURL]', symObjAddr: 0x6D3C, symBinAddr: 0xB334, symSize: 0x8 }
+  - { offset: 0x6458A, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setDebugURL:]', symObjAddr: 0x6D44, symBinAddr: 0xB33C, symSize: 0xC }
+  - { offset: 0x645CB, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate apiKey]', symObjAddr: 0x6D50, symBinAddr: 0xB348, symSize: 0x8 }
+  - { offset: 0x64602, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setApiKey:]', symObjAddr: 0x6D58, symBinAddr: 0xB350, symSize: 0xC }
+  - { offset: 0x64643, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate username]', symObjAddr: 0x6D64, symBinAddr: 0xB35C, symSize: 0x8 }
+  - { offset: 0x6467A, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setUsername:]', symObjAddr: 0x6D6C, symBinAddr: 0xB364, symSize: 0xC }
+  - { offset: 0x646BB, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate packageName]', symObjAddr: 0x6D78, symBinAddr: 0xB370, symSize: 0x8 }
+  - { offset: 0x646F2, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setPackageName:]', symObjAddr: 0x6D80, symBinAddr: 0xB378, symSize: 0xC }
+  - { offset: 0x64733, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate deviceId]', symObjAddr: 0x6D8C, symBinAddr: 0xB384, symSize: 0x8 }
+  - { offset: 0x6476A, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setDeviceId:]', symObjAddr: 0x6D94, symBinAddr: 0xB38C, symSize: 0xC }
+  - { offset: 0x647AB, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate vendorId]', symObjAddr: 0x6DA0, symBinAddr: 0xB398, symSize: 0x8 }
+  - { offset: 0x647E2, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setVendorId:]', symObjAddr: 0x6DA8, symBinAddr: 0xB3A0, symSize: 0xC }
+  - { offset: 0x64823, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate sessionId]', symObjAddr: 0x6DB4, symBinAddr: 0xB3AC, symSize: 0x8 }
+  - { offset: 0x6485A, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setSessionId:]', symObjAddr: 0x6DBC, symBinAddr: 0xB3B4, symSize: 0xC }
+  - { offset: 0x6489B, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate appBuildVersion]', symObjAddr: 0x6DC8, symBinAddr: 0xB3C0, symSize: 0x8 }
+  - { offset: 0x648D2, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setAppBuildVersion:]', symObjAddr: 0x6DD0, symBinAddr: 0xB3C8, symSize: 0xC }
+  - { offset: 0x64913, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate osVersion]', symObjAddr: 0x6DDC, symBinAddr: 0xB3D4, symSize: 0x8 }
+  - { offset: 0x6494A, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setOsVersion:]', symObjAddr: 0x6DE4, symBinAddr: 0xB3DC, symSize: 0xC }
+  - { offset: 0x6498B, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate adTrackingEnabled]', symObjAddr: 0x6DF0, symBinAddr: 0xB3E8, symSize: 0x8 }
+  - { offset: 0x649C2, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setAdTrackingEnabled:]', symObjAddr: 0x6DF8, symBinAddr: 0xB3F0, symSize: 0x8 }
+  - { offset: 0x649FD, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate discoveryEnabled]', symObjAddr: 0x6E00, symBinAddr: 0xB3F8, symSize: 0xC }
+  - { offset: 0x64A34, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setDiscoveryEnabled:]', symObjAddr: 0x6E0C, symBinAddr: 0xB404, symSize: 0x8 }
+  - { offset: 0x64A71, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate locationOptimisedEnabled]', symObjAddr: 0x6E14, symBinAddr: 0xB40C, symSize: 0xC }
+  - { offset: 0x64AA8, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setLocationOptimisedEnabled:]', symObjAddr: 0x6E20, symBinAddr: 0xB418, symSize: 0x8 }
+  - { offset: 0x64AE5, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate distanceFilter]', symObjAddr: 0x6E28, symBinAddr: 0xB420, symSize: 0x8 }
+  - { offset: 0x64B1A, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setDistanceFilter:]', symObjAddr: 0x6E30, symBinAddr: 0xB428, symSize: 0x8 }
+  - { offset: 0x64B58, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate batchSize]', symObjAddr: 0x6E38, symBinAddr: 0xB430, symSize: 0x8 }
+  - { offset: 0x64B8F, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setBatchSize:]', symObjAddr: 0x6E40, symBinAddr: 0xB438, symSize: 0x8 }
+  - { offset: 0x64BCC, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate terminatedBatchSize]', symObjAddr: 0x6E48, symBinAddr: 0xB440, symSize: 0x8 }
+  - { offset: 0x64C03, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setTerminatedBatchSize:]', symObjAddr: 0x6E50, symBinAddr: 0xB448, symSize: 0x8 }
+  - { offset: 0x64C40, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate terminatedEventsSize]', symObjAddr: 0x6E58, symBinAddr: 0xB450, symSize: 0x8 }
+  - { offset: 0x64C77, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setTerminatedEventsSize:]', symObjAddr: 0x6E60, symBinAddr: 0xB458, symSize: 0x8 }
+  - { offset: 0x64CB4, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate shouldCollectData]', symObjAddr: 0x6E68, symBinAddr: 0xB460, symSize: 0xC }
+  - { offset: 0x64CEB, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setShouldCollectData:]', symObjAddr: 0x6E74, symBinAddr: 0xB46C, symSize: 0x8 }
+  - { offset: 0x64D28, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate clientId]', symObjAddr: 0x6E7C, symBinAddr: 0xB474, symSize: 0xC }
+  - { offset: 0x64D5F, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setClientId:]', symObjAddr: 0x6E88, symBinAddr: 0xB480, symSize: 0x8 }
+  - { offset: 0x64D9E, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate monitoredApps]', symObjAddr: 0x6E90, symBinAddr: 0xB488, symSize: 0xC }
+  - { offset: 0x64DD5, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setMonitoredApps:]', symObjAddr: 0x6E9C, symBinAddr: 0xB494, symSize: 0x8 }
+  - { offset: 0x64E14, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate requestSession]', symObjAddr: 0x6EA4, symBinAddr: 0xB49C, symSize: 0x8 }
+  - { offset: 0x64E4B, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setRequestSession:]', symObjAddr: 0x6EAC, symBinAddr: 0xB4A4, symSize: 0xC }
+  - { offset: 0x64E8C, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate backgroundUpdateTask]', symObjAddr: 0x6EB8, symBinAddr: 0xB4B0, symSize: 0x8 }
+  - { offset: 0x64EC3, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setBackgroundUpdateTask:]', symObjAddr: 0x6EC0, symBinAddr: 0xB4B8, symSize: 0x8 }
+  - { offset: 0x64F00, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate lastSourceEventId]', symObjAddr: 0x6EC8, symBinAddr: 0xB4C0, symSize: 0xC }
+  - { offset: 0x64F37, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setLastSourceEventId:]', symObjAddr: 0x6ED4, symBinAddr: 0xB4CC, symSize: 0x8 }
+  - { offset: 0x64F76, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate trackLastLocation]', symObjAddr: 0x6EDC, symBinAddr: 0xB4D4, symSize: 0xC }
+  - { offset: 0x64FAD, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setTrackLastLocation:]', symObjAddr: 0x6EE8, symBinAddr: 0xB4E0, symSize: 0x8 }
+  - { offset: 0x64FEC, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate usedEventIds]', symObjAddr: 0x6EF0, symBinAddr: 0xB4E8, symSize: 0xC }
+  - { offset: 0x65023, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setUsedEventIds:]', symObjAddr: 0x6EFC, symBinAddr: 0xB4F4, symSize: 0x8 }
+  - { offset: 0x65062, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate lastDeviceInfo]', symObjAddr: 0x6F04, symBinAddr: 0xB4FC, symSize: 0xC }
+  - { offset: 0x65099, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setLastDeviceInfo:]', symObjAddr: 0x6F10, symBinAddr: 0xB508, symSize: 0x8 }
+  - { offset: 0x650D8, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate customData]', symObjAddr: 0x6F18, symBinAddr: 0xB510, symSize: 0xC }
+  - { offset: 0x6510F, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setCustomData:]', symObjAddr: 0x6F24, symBinAddr: 0xB51C, symSize: 0x8 }
+  - { offset: 0x6514E, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate customDataType]', symObjAddr: 0x6F2C, symBinAddr: 0xB524, symSize: 0xC }
+  - { offset: 0x65185, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setCustomDataType:]', symObjAddr: 0x6F38, symBinAddr: 0xB530, symSize: 0x8 }
+  - { offset: 0x651C4, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate customDataKey]', symObjAddr: 0x6F40, symBinAddr: 0xB538, symSize: 0xC }
+  - { offset: 0x651FB, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setCustomDataKey:]', symObjAddr: 0x6F4C, symBinAddr: 0xB544, symSize: 0x8 }
+  - { offset: 0x6523A, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate customDataValue]', symObjAddr: 0x6F54, symBinAddr: 0xB54C, symSize: 0xC }
+  - { offset: 0x65271, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setCustomDataValue:]', symObjAddr: 0x6F60, symBinAddr: 0xB558, symSize: 0x8 }
+  - { offset: 0x652B0, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate lastLORELocation]', symObjAddr: 0x6F68, symBinAddr: 0xB560, symSize: 0xC }
+  - { offset: 0x652E7, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setLastLORELocation:]', symObjAddr: 0x6F74, symBinAddr: 0xB56C, symSize: 0x8 }
+  - { offset: 0x65326, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate LOTrackingEnabled]', symObjAddr: 0x6F7C, symBinAddr: 0xB574, symSize: 0x8 }
+  - { offset: 0x6535D, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setLOTrackingEnabled:]', symObjAddr: 0x6F84, symBinAddr: 0xB57C, symSize: 0x8 }
+  - { offset: 0x65398, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate LODTrackingEnabled]', symObjAddr: 0x6F8C, symBinAddr: 0xB584, symSize: 0x8 }
+  - { offset: 0x653CF, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setLODTrackingEnabled:]', symObjAddr: 0x6F94, symBinAddr: 0xB58C, symSize: 0x8 }
+  - { offset: 0x6540A, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate allowsTerminatedTracking]', symObjAddr: 0x6F9C, symBinAddr: 0xB594, symSize: 0x8 }
+  - { offset: 0x65441, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setAllowsTerminatedTracking:]', symObjAddr: 0x6FA4, symBinAddr: 0xB59C, symSize: 0x8 }
+  - { offset: 0x6547C, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate discoveryTrackingEnabled]', symObjAddr: 0x6FAC, symBinAddr: 0xB5A4, symSize: 0x8 }
+  - { offset: 0x654B3, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setDiscoveryTrackingEnabled:]', symObjAddr: 0x6FB4, symBinAddr: 0xB5AC, symSize: 0x8 }
+  - { offset: 0x654EE, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate significantLocationTrackingEnabled]', symObjAddr: 0x6FBC, symBinAddr: 0xB5B4, symSize: 0x8 }
+  - { offset: 0x65525, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setSignificantLocationTrackingEnabled:]', symObjAddr: 0x6FC4, symBinAddr: 0xB5BC, symSize: 0x8 }
+  - { offset: 0x65560, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate foregroundTrackingEnabled]', symObjAddr: 0x6FCC, symBinAddr: 0xB5C4, symSize: 0x8 }
+  - { offset: 0x65597, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setForegroundTrackingEnabled:]', symObjAddr: 0x6FD4, symBinAddr: 0xB5CC, symSize: 0x8 }
+  - { offset: 0x655D2, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate enableNetworkName]', symObjAddr: 0x6FDC, symBinAddr: 0xB5D4, symSize: 0x8 }
+  - { offset: 0x65609, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setEnableNetworkName:]', symObjAddr: 0x6FE4, symBinAddr: 0xB5DC, symSize: 0x8 }
+  - { offset: 0x65644, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate enableAdvertisingId]', symObjAddr: 0x6FEC, symBinAddr: 0xB5E4, symSize: 0x8 }
+  - { offset: 0x6567B, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setEnableAdvertisingId:]', symObjAddr: 0x6FF4, symBinAddr: 0xB5EC, symSize: 0x8 }
+  - { offset: 0x656B6, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate enableSimOperator]', symObjAddr: 0x6FFC, symBinAddr: 0xB5F4, symSize: 0x8 }
+  - { offset: 0x656ED, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setEnableSimOperator:]', symObjAddr: 0x7004, symBinAddr: 0xB5FC, symSize: 0x8 }
+  - { offset: 0x65728, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate events]', symObjAddr: 0x700C, symBinAddr: 0xB604, symSize: 0x8 }
+  - { offset: 0x6575F, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setEvents:]', symObjAddr: 0x7014, symBinAddr: 0xB60C, symSize: 0xC }
+  - { offset: 0x657A0, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate LOCount]', symObjAddr: 0x7020, symBinAddr: 0xB618, symSize: 0x8 }
+  - { offset: 0x657D7, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setLOCount:]', symObjAddr: 0x7028, symBinAddr: 0xB620, symSize: 0x8 }
+  - { offset: 0x65814, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate LODCount]', symObjAddr: 0x7030, symBinAddr: 0xB628, symSize: 0x8 }
+  - { offset: 0x6584B, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setLODCount:]', symObjAddr: 0x7038, symBinAddr: 0xB630, symSize: 0x8 }
+  - { offset: 0x65888, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate allLogs]', symObjAddr: 0x7040, symBinAddr: 0xB638, symSize: 0x8 }
+  - { offset: 0x658BF, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setAllLogs:]', symObjAddr: 0x7048, symBinAddr: 0xB640, symSize: 0xC }
+  - { offset: 0x65900, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate serverConfigLoaded]', symObjAddr: 0x7054, symBinAddr: 0xB64C, symSize: 0x8 }
+  - { offset: 0x65937, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setServerConfigLoaded:]', symObjAddr: 0x705C, symBinAddr: 0xB654, symSize: 0x8 }
+  - { offset: 0x65972, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate loreRequestStatus]', symObjAddr: 0x7064, symBinAddr: 0xB65C, symSize: 0x8 }
+  - { offset: 0x659A9, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setLoreRequestStatus:]', symObjAddr: 0x706C, symBinAddr: 0xB664, symSize: 0x8 }
+  - { offset: 0x659E4, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate debug]', symObjAddr: 0x7074, symBinAddr: 0xB66C, symSize: 0x8 }
+  - { offset: 0x65A1B, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setDebug:]', symObjAddr: 0x707C, symBinAddr: 0xB674, symSize: 0x8 }
+  - { offset: 0x65A56, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate notify]', symObjAddr: 0x7084, symBinAddr: 0xB67C, symSize: 0x8 }
+  - { offset: 0x65A8D, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setNotify:]', symObjAddr: 0x708C, symBinAddr: 0xB684, symSize: 0x8 }
+  - { offset: 0x65AC8, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate eventsManager]', symObjAddr: 0x7094, symBinAddr: 0xB68C, symSize: 0xC }
+  - { offset: 0x65AFF, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setEventsManager:]', symObjAddr: 0x70A0, symBinAddr: 0xB698, symSize: 0x8 }
+  - { offset: 0x65B3E, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate lastFenceId]', symObjAddr: 0x70A8, symBinAddr: 0xB6A0, symSize: 0xC }
+  - { offset: 0x65B75, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setLastFenceId:]', symObjAddr: 0x70B4, symBinAddr: 0xB6AC, symSize: 0x8 }
+  - { offset: 0x65BB4, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate lastLocation]', symObjAddr: 0x70BC, symBinAddr: 0xB6B4, symSize: 0xC }
+  - { offset: 0x65BEB, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate setLastLocation:]', symObjAddr: 0x70C8, symBinAddr: 0xB6C0, symSize: 0x8 }
+  - { offset: 0x65C2A, size: 0x8, addend: 0x0, symName: '-[LandmarksIDManagerDelegate .cxx_destruct]', symObjAddr: 0x70D0, symBinAddr: 0xB6C8, symSize: 0x18C }
+...
