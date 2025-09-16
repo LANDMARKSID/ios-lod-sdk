@@ -1,0 +1,24 @@
+{
+  "object" : {
+    "artifacts" : [
+      {
+        "kind" : "xcframework",
+        "packageRef" : {
+          "identity" : "swift-ios",
+          "kind" : "root",
+          "location" : "/Users/robsonvn/Projects/landmarksid/ios-lod-sdk/Examples/swift-ios",
+          "name" : "swift-ios"
+        },
+        "path" : "/Users/robsonvn/Projects/landmarksid/ios-lod-sdk/LandmarksIDiOS.xcframework",
+        "source" : {
+          "type" : "local"
+        },
+        "targetName" : "LandmarksIDiOS"
+      }
+    ],
+    "dependencies" : [
+
+    ]
+  },
+  "version" : 6
+}

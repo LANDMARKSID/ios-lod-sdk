@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-lod-example/Pods-lod-example-frameworks.sh
+${BUILT_PRODUCTS_DIR}/FLEX/FLEX.framework
+${PODS_XCFRAMEWORKS_BUILD_DIR}/BluedotPointSDK/BDPointSDK.framework/BDPointSDK
+${PODS_XCFRAMEWORKS_BUILD_DIR}/LANDMARKSID-LOD-SDK/LandmarksIDiOS.framework/LandmarksIDiOS

@@ -1,0 +1,6 @@
+framework module LandmarksIDiOS {
+  umbrella header "LandmarksIDiOS.h"
+  export *
+
+  module * { export * }
+}

@@ -1,0 +1,46 @@
+{
+  "name": "LANDMARKSID-LOD-SDK",
+  "version": "2.4.1",
+  "summary": "LANDMARKS ID is a real world insights platform that helps brands learn more about their customers, locations and competitors",
+  "description": "LANDMARKS ID is a mobile location intelligence platform that provides brands and marketers privacy compliant location data on their customers real world behaviours, brand affinities and purchase intents",
+  "homepage": "https://www.landmarksid.com",
+  "license": {
+    "type": "Copyright",
+    "text": "      LANDMARKS ID iOS SDK\n      Copyright © 2020 LANDMARKS ID. All rights reserved.\n      By downloading or using the LANDMARKS ID SDK for iOS, You agree to the LANDMARKS ID Terms and Conditions\n      https://www.landmarksid.com/about.html\n      and acknowledge that such terms govern your use of and access to the iOS SDK.\n"
+  },
+  "authors": {
+    "LANDMARKSID": "https://www.landmarksid.com"
+  },
+  "platforms": {
+    "ios": "15.6"
+  },
+  "source": {
+    "http": "https://gitlab.com/api/v4/projects/landmarksid%2Fmobile-development%2Fsdk-ios-lod/packages/generic/landmarksid-lod-sdk/local/landmarksid-lod-sdk-local.zip"
+  },
+  "requires_arc": true,
+  "documentation_url": "https://docs.landmarksid.com/docs/overview.html",
+  "frameworks": [
+    "CoreLocation",
+    "CoreTelephony",
+    "SystemConfiguration",
+    "Foundation",
+    "AdSupport",
+    "UIKit"
+  ],
+  "weak_frameworks": "AppTrackingTransparency",
+  "vendored_frameworks": "LandmarksIDiOS.xcframework",
+  "dependencies": {
+    "BluedotPointSDK": [
+      "~> 15.6.9"
+    ]
+  },
+  "swift_versions": [
+    "5.0",
+    "5.1",
+    "5.2",
+    "5.3",
+    "5.4",
+    "5.5"
+  ],
+  "swift_version": "5.5"
+}

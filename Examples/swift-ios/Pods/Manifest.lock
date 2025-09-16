@@ -1,0 +1,27 @@
+PODS:
+  - BluedotPointSDK (15.6.12)
+  - FLEX (5.22.10)
+  - LANDMARKSID-LOD-SDK (2.4.1):
+    - BluedotPointSDK (~> 15.6.9)
+
+DEPENDENCIES:
+  - FLEX
+  - "LANDMARKSID-LOD-SDK (from `https://gitlab.com/api/v4/projects/landmarksid%2Fmobile-development%2Fsdk-ios-lod/packages/generic/landmarksid-lod-sdk/local/LANDMARKSID-LOD-SDK.podspec`)"
+
+SPEC REPOS:
+  trunk:
+    - BluedotPointSDK
+    - FLEX
+
+EXTERNAL SOURCES:
+  LANDMARKSID-LOD-SDK:
+    :podspec: "https://gitlab.com/api/v4/projects/landmarksid%2Fmobile-development%2Fsdk-ios-lod/packages/generic/landmarksid-lod-sdk/local/LANDMARKSID-LOD-SDK.podspec"
+
+SPEC CHECKSUMS:
+  BluedotPointSDK: 3e0c2439ea026c37202927ee2a99c39d609921f6
+  FLEX: f21ee4f498eed3f8a1eded66b21939fd3b7a22ce
+  LANDMARKSID-LOD-SDK: 49776a96b764ac02f945c4d9bc2f75c5315af63e
+
+PODFILE CHECKSUM: 9c42964d61f285239aeed1018f3676007cf0f342
+
+COCOAPODS: 1.16.2

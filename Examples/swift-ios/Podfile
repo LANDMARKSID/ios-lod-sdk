@@ -1,0 +1,20 @@
+platform :ios, '15.6'
+
+target 'lod-example' do
+  use_frameworks!
+
+# Pods for lod-example
+pod 'FLEX', :configurations => ['Debug']
+
+
+# Released version
+pod 'LANDMARKSID-LOD-SDK', :git => 'https://github.com/LANDMARKSID/ios-lod-sdk.git', :tag => '3.0.0'
+
+## Local Development
+
+# Uncomment the line below to use the local version of the SDK to test the xcframework built locally
+#pod 'LANDMARKSID-LOD-SDK', :podspec => '../..'
+
+# Uncomment the line below to use the source code of the SDK to test the module directly
+#pod 'LANDMARKSID-LOD-SDK', :path => '../..'
+end
